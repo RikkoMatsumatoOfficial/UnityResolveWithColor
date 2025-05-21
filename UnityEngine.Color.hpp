@@ -27,14 +27,14 @@ void SetZ(float z_col) {
 	color_z.z = z_col;
 }
 float GetX() {
-	Color xcolorx;
+	Color xcolorx = GetStaticColorClass();
 	return xcolorx.x;
 }
 float GetY() {
-	Color ycolor;
+	Color ycolor = GetStaticColorClass();
 	return ycolor.y;
 }
 float GetZ() {
-	Color zcolor;
+	Color zcolor = GetStaticColorClass();
 	return zcolor.z;
 }
