@@ -1,5 +1,5 @@
 # UnityResolveWithColor
-This is My First C++ Headers(For Init Color Class with Functions)... So Enjoy to use this
+This is My First C++ Headers(For Init Color Class Unity3D Version with Functions)... So Enjoy to use this
 
 ## Donations
 
